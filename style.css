@@ -1,0 +1,17 @@
+.inner_box{
+
+width:200px;
+height:200px;
+background-color:#d32222;
+border-color: salman;
+border: 50px solid rgba(0, 0, 0, 0.8);
+border-height:50px;
+border-width:50px;}
+    
+.outer_box{
+
+width:400px;
+height:400px;
+background-color:#075f11;
+padding :100px;}
+
